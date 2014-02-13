@@ -1,0 +1,28 @@
+Taller
+
+1-	¿Qué es un repositorio?
+Es un sitio web centralizado donde se almacena y mantiene información digital como por ejemplo bases de datos y archivos. Estos repositorios pueden ser públicos o privados. Los privados tienen un cierto tipo de seguridad como un usuario y una contraseña para acceder a dicho repositorio, por otro lado, en los públicos puede acceder cualquier persona que tenga un computador y acceso a internet.
+
+5- ¿Qué es modelo vista –controlador (M.V.C.)?
+Es un estilo de arquitectura para llevar a cabo un proyecto de software que separa los datos de una aplicación, la interfaz de usuario, y la lógica de control en tres componentes distintos.
+Este modelo ha sido y es muy utilizado en proyectos, en todo tipo de aplicaciones y sobre multitud de lenguajes y plataformas de desarrollo. 
+El modelo: El modelo es el que contiene una representación de los datos del sistema, la lógica y en donde podemos acceder a la capa de almacenamiento de datos. Con el modelo también podemos llevar un registro de las vistas y controladores del sistema.
+La vista: Esta representa la interfaz de usuario, la parte grafica del proyecto en donde el usuario interactúa con el sistema que compone la información que se envía al cliente y los mecanismos de interacción con este.  Las vistas son las responsables de recibir datos del modelo y los muestra al usuario,  tiene un registro de su controlador asociado y puede dar el servicio de actualización para que sea invocado por el controlador o el modelo.
+El controlador: Actúa como intermediario entre el modelo y la vista, gestionando el flujo de información entre ellos y las transformaciones para adaptar los datos a las necesidades de cada uno 
+
+Nombre: Nelson Andres Linares Rozo
+
+Enlace de cuenta de github: https://github.com/nelson-linares
+Enlace al repositorio: https://github.com/nelson-linares/arquitectura_Andres
+
+
+
+
+
+
+
+
+
+
+ 
+
